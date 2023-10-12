@@ -1,7 +1,6 @@
 import logging
 from aiogram import Bot, Dispatcher, executor, types
 from check_word import check_word
-import
 
 API_TOKEN = "6553659526:AAENRZ02Y2T96q3ErAC4SYdfK-HmoXH0B3c"
 
